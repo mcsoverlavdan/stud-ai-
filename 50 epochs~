@@ -1,0 +1,18 @@
+/home/ak/PycharmProjects/battelefield/venv/bin/python "/media/ak/diablo/ai course/ai hackathon.py"
+/usr/lib/python3.4/importlib/_bootstrap.py:321: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  return f(*args, **kwds)
+100%|██████████| 500/500 [00:00<00:00, 2376.35it/s]
+100%|██████████| 500/500 [00:00<00:00, 2594.10it/s]
+100%|██████████| 1300/1300 [00:00<00:00, 2389.38it/s]
+100%|██████████| 1300/1300 [00:00<00:00, 2566.09it/s]
+WARNING:tensorflow:From /home/ak/PycharmProjects/battelefield/venv/lib/python3.4/site-packages/tflearn/initializations.py:119: UniformUnitScaling.__init__ (from tensorflow.python.ops.init_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.initializers.variance_scaling instead with distribution=uniform to get equivalent behavior.
+WARNING:tensorflow:From /home/ak/PycharmProjects/battelefield/venv/lib/python3.4/site-packages/tflearn/objectives.py:66: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
+Instructions for updating:
+keep_dims is deprecated, use keepdims instead
+2019-04-17 01:10:51.573784: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+---------------------------------
+Run id: ai_hackathon
+Log directory: log/
+
